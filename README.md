@@ -1,6 +1,3 @@
-Sure! Here's a README file for your project:
-
-```markdown
 # Image Descriptor Project
 
 Welcome to the Image Descriptor Project. This project is designed to extract color and texture descriptors from images. It supports extracting color histograms and Local Binary Pattern (LBP) descriptors.
@@ -53,7 +50,7 @@ git clone https://github.com/yourusername/image-descriptor-project.git
 
 ### Example Output
 
-```
+
 =================================
 Welcome to the Image Descriptor Project
 Created by Oussama Missaoui
@@ -68,7 +65,6 @@ Texture descriptor for image example.jpg:
 LBP descriptor for image example.jpg:
 1 2 3 ... 4 5 6
 ...
-```
 
 ## License
 
@@ -77,6 +73,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Credits
 
 This project was created by Oussama Missaoui.
-```
+
 
 Make sure to replace `yourusername` with your actual GitHub username in the clone URL. Additionally, if you have a specific license file (e.g., MIT), include it in your project directory.
