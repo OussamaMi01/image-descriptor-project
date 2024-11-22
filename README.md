@@ -75,6 +75,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Credits
 
 This project was created by Oussama Missaoui.
-```
-
-Make sure to replace `yourusername` with your actual GitHub username in the clone URL. Additionally, if you have a specific license file (e.g., MIT), include it in your project directory.
