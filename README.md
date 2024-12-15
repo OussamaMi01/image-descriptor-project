@@ -1,4 +1,4 @@
-```markdown
+
 # Image Descriptor Project
 
 Welcome to the Image Descriptor Project. This project is designed to extract color and texture descriptors from images. It supports extracting color histograms and Local Binary Pattern (LBP) descriptors.
@@ -34,7 +34,7 @@ The Image Descriptor Project is a Java application that processes images to extr
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/image-descriptor-project.git
+git clone https://github.com/OussamaMi01/image-descriptor-project.git
 ```
 
 2. Open the project in your preferred IDE.
@@ -65,9 +65,7 @@ Texture descriptor for image example.jpg:
 
 LBP descriptor for image example.jpg:
 1 2 3 ... 4 5 6
-...
 ```
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
